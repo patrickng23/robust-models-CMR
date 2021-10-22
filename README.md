@@ -3,7 +3,9 @@ This was created as part of assessment for a final year engineering assignment 2
 
 Paths included are relative to my google drive and should be updated indicative to your own directory structure.
 Included are the weights for 4 models assessed: Baseline 2D UNet (50/100 epochs), H/V Flip (50/100 epochs), H Flip (50/100 epochs) and SimSiam (50/100 epochs).
-The method for training the baseline models is in multi-class-segmentation.ipynb with the SimSiam implementation seen in SimSiam-M&Ms.ipynb
+The method for training the baseline models is in baselineUnetModel.ipynb with the SimSiam implementation seen in SimSiam-M&Ms.ipynb
+
+To use the train-image data generator keras function the path to train images and masks needs to point to a directory with folder named 'train' containing images or masks.
 
 
 Data used was from the M&Ms challenge 2020 dataset which can be accessed from this link https://www.ub.edu/mnms/. 
