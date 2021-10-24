@@ -6,7 +6,7 @@ Included are the weights for 4 models assessed: Baseline 2D UNet (50/100 epochs)
 
 https://drive.google.com/drive/folders/134wRcyPTBAUQUXnRXoRI0ibpguupGuDF?usp=sharing
 
-The method for training the baseline models is in baselineUnetModel.ipynb with the SimSiam implementation seen in SimSiam-M&Ms.ipynb
+The method for training the baseline models is in baseline2D_Unet.ipynb with the SimSiam implementation seen in SimSiam-M&Ms.ipynb
 
 To use the train-image data generator keras function the path to train images and masks needs to point to a directory with folder named 'train' containing images or masks.
 
