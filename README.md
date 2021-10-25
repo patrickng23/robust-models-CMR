@@ -15,3 +15,6 @@ Data used was from the M&Ms challenge 2020 dataset which can be accessed from th
 
 V. M. Campello et al., "Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2021.3090082.
 
+The SimSiam implementation was based on Sayak Paul's keras example.
+
+https://keras.io/examples/vision/simsiam/#defining-our-data-augmentation-pipeline
